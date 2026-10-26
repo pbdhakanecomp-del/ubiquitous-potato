@@ -1,0 +1,241 @@
+city,locality,area_sqft,bedrooms,bathrooms,property_age_years,price_inr
+Chennai,Velachery,500,1,1,3,3240000
+Pune,Baner,700,2,1,0,6340000
+Mumbai,Dadar,2350,4,4,25,56260000
+Hyderabad,Gachibowli,1850,4,3,2,20350000
+Bengaluru,HSR Layout,900,2,2,1,9080000
+Pune,Kharadi,1550,3,2,12,14430000
+Hyderabad,Miyapur,2200,4,4,20,12020000
+Pune,Wakad,2550,5,4,1,26540000
+Pune,Hadapsar,1300,4,4,2,10610000
+Mumbai,Andheri,2600,4,4,15,60130000
+Mumbai,Navi Mumbai,1650,3,3,25,21480000
+Pune,Hinjewadi,550,1,2,5,3410000
+Delhi,Saket,1100,3,4,25,13060000
+Bengaluru,Electronic City,1200,2,3,20,7610000
+Mumbai,Powai,2050,5,4,0,58030000
+Mumbai,Powai,2600,5,4,10,61850000
+Hyderabad,LB Nagar,1250,1,1,25,6230000
+Bengaluru,HSR Layout,800,2,3,2,8790000
+Chennai,OMR,2050,4,3,25,11390000
+Chennai,Anna Nagar,2350,5,4,8,26450000
+Delhi,Mayur Vihar,450,1,2,0,4090000
+Bengaluru,HSR Layout,1200,1,1,20,12560000
+Pune,Hadapsar,650,1,1,25,4100000
+Delhi,Rohini,1250,3,3,15,10340000
+Chennai,Tambaram,1400,4,4,12,8470000
+Hyderabad,Miyapur,1200,2,1,8,6220000
+Delhi,Rohini,2300,5,4,1,22340000
+Pune,Hinjewadi,650,1,1,1,4630000
+Bengaluru,Sarjapur,1100,2,3,3,9870000
+Hyderabad,Gachibowli,750,1,2,8,6530000
+Hyderabad,Miyapur,2600,4,3,10,17280000
+Pune,Hinjewadi,1050,2,3,2,7610000
+Bengaluru,Sarjapur,1200,1,2,15,8060000
+Chennai,Anna Nagar,450,1,1,2,4070000
+Hyderabad,Gachibowli,1700,2,2,10,13720000
+Hyderabad,Kondapur,1900,4,4,15,17330000
+Hyderabad,Gachibowli,1050,2,2,0,10430000
+Delhi,Dwarka,1450,2,1,20,12440000
+Delhi,Rohini,600,1,1,1,4780000
+Chennai,Tambaram,1700,2,2,20,8350000
+Delhi,Dwarka,1750,4,4,3,19100000
+Bengaluru,Electronic City,1250,3,3,25,8480000
+Hyderabad,Kondapur,650,1,2,20,5410000
+Pune,Wakad,2150,4,4,2,21730000
+Pune,Hinjewadi,1600,3,3,12,12540000
+Chennai,OMR,2400,4,4,25,12680000
+Mumbai,Andheri,800,1,1,5,15520000
+Mumbai,Andheri,1100,2,3,5,25870000
+Pune,Wakad,2450,5,4,0,20820000
+Mumbai,Andheri,950,3,4,15,17620000
+Pune,Hinjewadi,2150,3,3,20,14980000
+Hyderabad,Gachibowli,550,1,1,0,5610000
+Mumbai,Powai,2550,4,4,15,63400000
+Hyderabad,LB Nagar,900,2,2,2,5460000
+Pune,Hinjewadi,1500,4,4,5,10890000
+Chennai,Velachery,1650,2,3,3,11370000
+Hyderabad,Kondapur,1400,3,3,0,13440000
+Hyderabad,Kondapur,1300,2,2,8,11320000
+Hyderabad,LB Nagar,1500,2,1,5,7550000
+Bengaluru,Whitefield,750,3,3,8,6610000
+Delhi,Dwarka,1650,3,3,0,17740000
+Pune,Baner,2150,4,4,10,19810000
+Chennai,OMR,2400,5,4,5,16670000
+Chennai,Porur,1450,4,4,15,8070000
+Hyderabad,Kukatpally,2600,5,4,10,20620000
+Pune,Kharadi,1350,3,4,20,12120000
+Bengaluru,Sarjapur,1850,5,4,15,16230000
+Chennai,Tambaram,2550,4,4,15,14350000
+Delhi,Saket,700,1,1,3,9510000
+Mumbai,Thane,550,1,2,20,6640000
+Pune,Hadapsar,1750,4,4,12,13510000
+Mumbai,Thane,750,3,3,2,11020000
+Chennai,Anna Nagar,1900,3,3,1,19140000
+Hyderabad,LB Nagar,2200,4,4,20,12770000
+Delhi,Uttam Nagar,2200,5,4,12,15570000
+Mumbai,Andheri,2100,5,4,5,50360000
+Chennai,OMR,1200,2,2,8,7880000
+Pune,Hinjewadi,900,2,3,2,6980000
+Pune,Hadapsar,1750,4,4,10,12550000
+Hyderabad,Kukatpally,2300,4,4,12,15070000
+Bengaluru,HSR Layout,1650,4,4,12,17510000
+Hyderabad,Kukatpally,500,2,2,25,3260000
+Hyderabad,Gachibowli,1900,4,3,10,19400000
+Chennai,Velachery,700,2,2,12,4540000
+Bengaluru,Sarjapur,1450,3,4,8,11850000
+Hyderabad,Kondapur,1750,4,3,12,13860000
+Delhi,Dwarka,1550,3,2,25,12000000
+Pune,Hinjewadi,1050,1,1,3,6700000
+Chennai,Velachery,2250,4,4,5,19140000
+Mumbai,Dadar,2350,4,4,5,55490000
+Pune,Kharadi,2250,5,4,3,21440000
+Chennai,Tambaram,750,2,1,20,3850000
+Bengaluru,Yelahanka,1800,4,3,15,13980000
+Pune,Hadapsar,2000,3,4,8,16070000
+Hyderabad,Gachibowli,1800,4,4,20,18080000
+Delhi,Uttam Nagar,1900,5,4,8,15140000
+Pune,Kharadi,1850,4,4,20,17340000
+Hyderabad,Kondapur,500,2,2,2,4360000
+Bengaluru,HSR Layout,1500,3,3,15,14160000
+Mumbai,Thane,1200,3,4,15,16070000
+Chennai,Porur,2500,5,4,0,15770000
+Mumbai,Navi Mumbai,1200,2,2,12,17260000
+Bengaluru,Sarjapur,2200,4,4,12,17980000
+Bengaluru,Electronic City,800,2,2,1,6210000
+Chennai,Tambaram,1050,2,3,5,5860000
+Delhi,Mayur Vihar,1350,2,2,5,12850000
+Mumbai,Andheri,450,1,1,0,10580000
+Delhi,Saket,850,3,2,0,12200000
+Hyderabad,Kukatpally,1850,4,4,0,13940000
+Hyderabad,Miyapur,650,2,3,1,4050000
+Chennai,Velachery,900,2,2,1,7560000
+Pune,Baner,1750,4,4,12,19500000
+Bengaluru,Yelahanka,1800,4,3,20,14490000
+Pune,Hinjewadi,2450,5,4,25,15900000
+Mumbai,Powai,2200,3,3,0,51600000
+Chennai,Anna Nagar,1950,4,3,3,19410000
+Bengaluru,Sarjapur,650,1,1,25,4610000
+Mumbai,Navi Mumbai,800,2,2,5,12800000
+Pune,Wakad,950,2,2,12,6820000
+Chennai,OMR,1700,3,4,12,9340000
+Pune,Hadapsar,1450,3,2,1,11010000
+Chennai,Anna Nagar,2300,4,4,20,19230000
+Mumbai,Navi Mumbai,2100,5,4,2,40330000
+Hyderabad,Kukatpally,700,2,2,10,4640000
+Chennai,Velachery,950,2,3,12,6330000
+Hyderabad,LB Nagar,550,2,1,8,2770000
+Pune,Hadapsar,2050,3,4,10,14060000
+Delhi,Saket,2400,5,4,0,34160000
+Delhi,Rohini,1350,4,4,1,10640000
+Chennai,Anna Nagar,1200,2,2,15,9450000
+Hyderabad,Miyapur,1150,1,2,1,6950000
+Mumbai,Navi Mumbai,1350,3,4,12,22340000
+Mumbai,Navi Mumbai,2200,4,4,3,39680000
+Delhi,Rohini,650,1,2,8,5350000
+Delhi,Saket,450,1,1,20,5200000
+Chennai,Porur,900,3,4,8,5290000
+Delhi,Uttam Nagar,1900,4,4,3,14070000
+Mumbai,Navi Mumbai,550,1,2,10,7350000
+Chennai,Tambaram,2000,3,3,15,11540000
+Bengaluru,Whitefield,1850,3,4,0,18330000
+Hyderabad,Gachibowli,650,2,2,8,6210000
+Hyderabad,Miyapur,1500,4,4,25,9000000
+Hyderabad,LB Nagar,550,1,1,25,2620000
+Bengaluru,Electronic City,700,2,1,25,4610000
+Pune,Hadapsar,950,2,1,0,7120000
+Pune,Kharadi,1550,3,4,2,14300000
+Hyderabad,LB Nagar,2600,5,4,2,14740000
+Hyderabad,LB Nagar,2600,5,4,20,13360000
+Hyderabad,Kondapur,1900,4,3,12,18650000
+Chennai,Anna Nagar,950,1,2,8,9450000
+Bengaluru,Sarjapur,1250,3,3,3,12280000
+Hyderabad,Miyapur,1200,3,3,20,6450000
+Chennai,OMR,500,2,2,0,3200000
+Chennai,Velachery,2350,5,4,3,20310000
+Bengaluru,Electronic City,2450,5,4,25,18510000
+Chennai,Tambaram,2450,4,3,5,15120000
+Pune,Baner,1600,3,2,5,15590000
+Hyderabad,Gachibowli,1050,2,2,15,9320000
+Bengaluru,Electronic City,1250,3,3,8,9850000
+Hyderabad,Miyapur,900,2,3,15,4870000
+Hyderabad,Miyapur,1250,1,2,8,7280000
+Chennai,OMR,2300,5,4,1,17030000
+Hyderabad,Miyapur,2400,5,4,25,12750000
+Hyderabad,Kondapur,2500,5,4,2,22100000
+Pune,Kharadi,2000,3,2,3,21350000
+Mumbai,Navi Mumbai,1900,4,4,20,29510000
+Mumbai,Navi Mumbai,2500,4,4,20,35880000
+Bengaluru,Whitefield,1600,3,4,12,15470000
+Bengaluru,Whitefield,2600,5,4,0,25910000
+Mumbai,Thane,1900,3,3,25,23130000
+Pune,Wakad,1500,3,3,20,10900000
+Delhi,Rohini,2300,5,4,8,21720000
+Delhi,Dwarka,1300,3,3,15,11390000
+Mumbai,Thane,2550,4,4,0,35600000
+Mumbai,Dadar,1450,2,2,5,30950000
+Chennai,Porur,2100,3,2,12,12390000
+Bengaluru,Yelahanka,2300,4,4,15,16090000
+Delhi,Dwarka,2550,5,4,25,26790000
+Pune,Hadapsar,1700,4,3,12,14130000
+Hyderabad,Miyapur,700,1,1,1,3720000
+Delhi,Mayur Vihar,2200,4,4,20,22320000
+Hyderabad,LB Nagar,2350,5,4,1,16180000
+Chennai,Anna Nagar,1100,3,4,3,10830000
+Hyderabad,Kukatpally,1750,3,3,10,12070000
+Bengaluru,HSR Layout,900,3,2,1,11350000
+Pune,Hadapsar,750,2,2,15,4770000
+Delhi,Mayur Vihar,1500,2,3,8,16340000
+Hyderabad,Miyapur,1350,3,3,1,8790000
+Mumbai,Powai,2550,5,4,1,63650000
+Delhi,Saket,800,2,2,10,10990000
+Delhi,Mayur Vihar,2600,4,4,0,27470000
+Chennai,OMR,1500,3,2,2,10620000
+Delhi,Uttam Nagar,650,1,1,1,4440000
+Mumbai,Navi Mumbai,1750,5,4,2,29090000
+Chennai,OMR,2250,3,2,2,13430000
+Delhi,Dwarka,2600,4,4,12,26780000
+Hyderabad,LB Nagar,1850,5,4,3,12310000
+Pune,Kharadi,1800,3,3,25,15870000
+Hyderabad,LB Nagar,2550,5,4,3,15590000
+Delhi,Dwarka,450,1,1,3,4400000
+Bengaluru,HSR Layout,1450,2,1,12,16040000
+Mumbai,Powai,1650,3,3,1,38360000
+Chennai,Velachery,1800,3,4,1,15360000
+Delhi,Uttam Nagar,2250,5,4,5,15290000
+Pune,Kharadi,950,3,3,1,9250000
+Pune,Hinjewadi,1800,5,4,10,15640000
+Chennai,OMR,1150,2,2,1,7220000
+Pune,Baner,2050,4,4,8,22500000
+Chennai,Tambaram,1200,1,1,5,5630000
+Delhi,Rohini,2500,4,4,25,18970000
+Delhi,Mayur Vihar,1850,4,4,2,20620000
+Hyderabad,Kukatpally,2450,5,4,20,16070000
+Delhi,Dwarka,1400,4,4,0,13360000
+Bengaluru,Whitefield,2500,4,4,12,23200000
+Chennai,Velachery,1850,4,4,20,13340000
+Mumbai,Thane,1850,3,3,1,25510000
+Mumbai,Thane,1200,3,4,15,15210000
+Mumbai,Andheri,1600,3,4,10,37020000
+Chennai,Anna Nagar,600,1,1,8,4830000
+Chennai,Porur,1350,3,3,8,7440000
+Chennai,Tambaram,1550,3,4,2,8940000
+Pune,Kharadi,2200,5,4,2,24450000
+Chennai,Anna Nagar,700,2,2,0,6630000
+Mumbai,Powai,1500,4,4,3,41270000
+Mumbai,Thane,1350,2,1,25,14620000
+Delhi,Rohini,2350,5,4,2,19950000
+Chennai,Anna Nagar,950,3,2,10,8850000
+Chennai,Tambaram,1850,4,4,3,10900000
+Bengaluru,Sarjapur,1050,2,3,12,8870000
+Hyderabad,LB Nagar,2100,5,4,3,14120000
+Mumbai,Andheri,600,2,2,15,13320000
+Chennai,Anna Nagar,800,2,1,2,7320000
+Delhi,Rohini,1800,3,3,12,15630000
+Pune,Hadapsar,600,2,2,3,4480000
+Pune,Kharadi,1150,1,1,1,11240000
+Chennai,OMR,900,2,1,5,6050000
+Hyderabad,Gachibowli,1950,5,4,1,18970000
+Mumbai,Powai,2200,5,4,5,52090000
+Pune,Wakad,1200,3,4,1,9610000
+Hyderabad,LB Nagar,2150,3,3,2,11860000
